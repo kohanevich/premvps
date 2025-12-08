@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://premvps.com/sitemap.xml
+
+Disallow: /admin/
+Disallow: /cp/
+Disallow: /_*
